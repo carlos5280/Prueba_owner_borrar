@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/*
+.idea/
+*.code-workspace
+
+# Log and temporary files
+*.log
+*.tmp
+*.sw?
+
+# Miscellaneous
+*.tsv
+*.ipynb_checkpoints
+*.csv
+*.xlsx
+pruebas/
